@@ -1,2 +1,2 @@
-# recirculation
-Experiments with Hinton's recirculation algorithm for training autoencoders
+# Recirculation
+Experiments with Hinton's recirculation algorithm for training autoencoders with Python & NumPy - no TensorFlow required!
